@@ -4,7 +4,7 @@
 Mau di enc pun percuma gw gak bisa
 ketik: git pull
 
-coded by Rizky ID
+coded By Bayu Putra Tama 
 """
 
 from os import system
@@ -140,7 +140,7 @@ def Menu():
    \x1b[1;93m ╔═╗╦═╗╔═╗╔═╗╔╦╗╔═╗  ╔═╗╔═╗╦ ╦
     ║  ╠╦╝║╣ ╠═╣ ║ ║╣   ╚═╗╚═╗╠═╣
     ╚═╝╩╚═╚═╝╩ ╩ ╩ ╚═╝  ╚═╝╚═╝╩ ╩
-\x1b[1;97m     https://github.com/hekelpro
+\x1b[1;97m     https://github.com/KamZ0
 \x1b[1;91m+-----------------------------------+
 \x1b[1;96m  {\x1b[1;92m01\x1b[1;96m} \x1b[1;97mCREATE SSL/TLS MONTHLY
 \x1b[1;96m  {\x1b[1;92m02\x1b[1;96m} \x1b[1;97mCREATE SSH MONTHLY
